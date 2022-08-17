@@ -1,16 +1,14 @@
 ### Ian Silva👋
 
-<!--
-**iansilva18/iansilva18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá, eu sou o Gabriel Gemente! 👋
+🔭 Hoje trabalho com front-end e back-end
+🌱 Estudando Python e JavaScript
+📫 Entre em contato por aqui: gabrielxgemente@gmail.com
+😄 Pronouns: Ele/Dele
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rafa-Python Rafa-Python Rafa-HTML Rafa-CSS Rafa-Js Rafa-Python Rafa-Python
+ 
+
+Snake animation
