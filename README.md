@@ -1,8 +1,8 @@
-### Olá, eu sou o Ian Silva! 👋
+### Ian Silva ☯️
 
 
-- 🌱 Estudando Desenvolvimento de Sistemas 
-- 📫 Entre em contato por aqui: iansilva642@gmail.com
+- Estudando Desenvolvimento de Sistemas 
+- Entre em contato por aqui: iansilva642@gmail.com
 -
 
 
