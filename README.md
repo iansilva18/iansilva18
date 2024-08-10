@@ -1,7 +1,7 @@
 ### Ian Silva ☯️
 
-
-- Estudando Desenvolvimento de Sistemas 
+- Estudante de Sistemas de Informação
+- Técnico em Desenvolvimento de Sistemas 
 - Entre em contato por aqui: iansilva642@gmail.com
 
 <a href = "mailto:iansilva642@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
